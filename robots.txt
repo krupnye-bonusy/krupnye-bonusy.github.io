@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: krupnye-bonusy.github.io
+Sitemap: https://krupnye-bonusy.github.io/sitemap.xml
